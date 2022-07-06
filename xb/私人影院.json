@@ -2,7 +2,7 @@
   "author":"sober",
   "name": "私人影院",
   "url": "https://soumk.com",
-  "lianjieqian": "href=\"https://soumk.com",
+
   "tihuan": "cnzz.com", 
   "User": "空", 
   "shouye": "1",
@@ -17,7 +17,8 @@
   "tupianhou": "\"", 
   "biaotiqian": "title=\"",
   "biaotihou": "\"", 
-  "lianjieqian": "href=\"", 
+  "lianjieqian": "href=\"https://soumk.com",
+//  "lianjieqian": "href=\"", 
   "lianjiehou": "\"", 
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
