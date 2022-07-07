@@ -1,7 +1,8 @@
 # 自组
 
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/cumberjie/m/main/jar/qiaoji.jar",
+# "spider":"https://ghproxy.com/https://raw.githubusercontent.com/cumberjie/m/main/jar/qiaoji.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/cumberjie/m/main/jar/07061553净化包.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcGFuZG9yYXlzL1RhbmdzYW45OTk5OS96cWtkL3R2L2xpdmUudHh0"]}]}],
 
 
