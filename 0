@@ -1,7 +1,7 @@
  
 // ziyong
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/cumberjie/m/main/jar/07061553净化包.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/cumberjie/m/main/jar/3.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 
 
