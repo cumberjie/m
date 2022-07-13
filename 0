@@ -34,7 +34,7 @@
 
 {"key":"csp_biubiu_哔嘀影视","name":"📮哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/cumberjie/m/main/xb/bdys.json"},
 {"key":"csp_biubiu_黑洞影视","name":"🐞黑洞影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/cumberjie/m/main/xb/黑洞影视.json"},
-{"key":"csp_biubiu_口袋影院","name":"🐞口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/cumberjie/m/main/xb/口袋影视.json"},
+{"key":"csp_XBiubiubiubiu_口袋影院","name":"🐞口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/cumberjie/m/main/xb/口袋影视.json"},
 {"key":"csp_biubiu_87影院","name":"🐞87影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/cumberjie/m/main/xb/87影视.json"},
 {"key":"csp_biubiu_特狗影视","name":"🐞特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/cumberjie/m/main/xb/tegou.json"},
 {"key":"csp_biubiu_真不卡zhenbuka3","name":"💥真不卡1(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/cumberjie/m/main/xb/zhenbuka3.json"},
@@ -104,14 +104,13 @@
 {"name":"秒播3","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
 {"name":"0左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
 {"name":"0左岸2","type":1,"url":"https://za.kuanjv.com/?url="},
-{"name":"融兴","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="}
+{"name":"融兴","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
 
 {"name":"②秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"旋风","type":1,"url":"https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=","ext":{"flag":["xfyun"]}},
 {"name":"leduo","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
 {"name":"11","type":1,"url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
-{"name":"Web解析","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"]}},
-
+{"name":"Web解析","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"]}}
 ],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷",
     "芒果",
